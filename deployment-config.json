@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "example.com",
+    "username": "root",
+    "password": "hello23",
+    "port": 22,
+    "remotePath": "/var/www",
+    "uploadOnSave": true
+}
